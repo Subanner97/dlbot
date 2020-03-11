@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/suvo/dlbot/model.tflearn"
+all_model_checkpoint_paths: "/home/suvo/dlbot/model.tflearn"
